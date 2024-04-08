@@ -8,6 +8,7 @@ Versed in building various tools of different complexity. Startup mentality. Rad
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [andriy.polukhin@gmail.com](mailto:andriy.polukhin@gmail.com)
+* 💻  You can book a meeting with me via [calendly](https://calendly.com/andriy-polukhin)
 
 ### Skills
 
